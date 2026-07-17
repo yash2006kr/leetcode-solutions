@@ -1,6 +1,7 @@
 # LeetCode Solutions 🚀
 
-This repository contains my daily LeetCode solutions to improve my Data Structures & Algorithms (DSA) and problem-solving skills.
+* This repository contains my daily LeetCode solutions to improve my Data Structures & Algorithms (DSA) and problem-solving skills.
+* Language used - Java.
 
 ## 📂 Structure
 - Easy
