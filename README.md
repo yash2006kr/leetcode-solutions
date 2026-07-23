@@ -9,7 +9,7 @@
 - Hard
 
 Each solution includes clean code and time/space complexity where applicable.
-NOTE: The code in the files doesn't contain input(its just copy pasted from the leetcode solution and cannot be run on other platforms without input).
+*NOTE: The code in the files doesn't contain input(its just copy pasted from the leetcode solution and cannot be run on other platforms without input).
 
 ---
 ⭐ Consistency over perfection.
