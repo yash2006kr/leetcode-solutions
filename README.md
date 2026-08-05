@@ -14,3 +14,19 @@ Each solution includes clean code and time/space complexity where applicable.
 ---
 ⭐ Consistency over perfection.
 ---
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Depth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yash2006kr/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yash2006kr/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+## Graph Theory
+|  |
+| ------- |
+| [3310-remove-methods-from-project](https://github.com/yash2006kr/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
+<!---LeetCode Topics End-->
