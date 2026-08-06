@@ -39,4 +39,12 @@ Each solution includes clean code and time/space complexity where applicable.
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+## Math
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yash2006kr/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/yash2006kr/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
