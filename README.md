@@ -8,6 +8,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0110-balanced-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 | [3310-remove-methods-from-project](https://github.com/yash2006kr/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 ## Breadth-First Search
 |  |
@@ -23,11 +24,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0110-balanced-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0110-balanced-binary-tree) |
 ## Math
 |  |
 | ------- |
