@@ -59,6 +59,7 @@
 ## String
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -67,9 +68,18 @@
 ## Greedy
 |  |
 | ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
 | ------- |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Dynamic Programming
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
