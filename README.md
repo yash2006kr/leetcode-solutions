@@ -53,6 +53,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 ## Divide and Conquer
 |  |
@@ -87,6 +88,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
