@@ -56,6 +56,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -120,4 +121,12 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/yash2006kr/leetcode-solutions/tree/master/1510-stone-game-iv) |
+## Hash Table
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+## Sorting
+|  |
+| ------- |
+| [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 <!---LeetCode Topics End-->
