@@ -56,6 +56,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
+| [0136-single-number](https://github.com/yash2006kr/leetcode-solutions/tree/master/0136-single-number) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yash2006kr/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -149,4 +150,8 @@
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash2006kr/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/yash2006kr/leetcode-solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
