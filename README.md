@@ -47,6 +47,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yash2006kr/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yash2006kr/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yash2006kr/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yash2006kr/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -62,6 +63,7 @@
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/yash2006kr/leetcode-solutions/tree/master/0136-single-number) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
+| [1563-stone-game-v](https://github.com/yash2006kr/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yash2006kr/leetcode-solutions/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yash2006kr/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -109,6 +111,7 @@
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yash2006kr/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yash2006kr/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -125,6 +128,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/yash2006kr/leetcode-solutions/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/yash2006kr/leetcode-solutions/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/yash2006kr/leetcode-solutions/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
