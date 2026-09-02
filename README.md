@@ -55,6 +55,7 @@
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yash2006kr/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/yash2006kr/leetcode-solutions/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/yash2006kr/leetcode-solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3875-construct-uniform-parity-array-i](https://github.com/yash2006kr/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Enumeration
@@ -105,6 +106,7 @@
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash2006kr/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Backtracking
@@ -188,6 +190,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/yash2006kr/leetcode-solutions/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/yash2006kr/leetcode-solutions/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yash2006kr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/yash2006kr/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
@@ -234,6 +237,7 @@
 |  |
 | ------- |
 | [2029-stone-game-ix](https://github.com/yash2006kr/leetcode-solutions/tree/master/2029-stone-game-ix) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -243,6 +247,7 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yash2006kr/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Union-Find
 |  |
 | ------- |
