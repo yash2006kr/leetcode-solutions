@@ -103,6 +103,7 @@
 ## String
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/yash2006kr/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/yash2006kr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [1927-sum-game](https://github.com/yash2006kr/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yash2006kr/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -142,6 +143,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0115-distinct-subsequences](https://github.com/yash2006kr/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
