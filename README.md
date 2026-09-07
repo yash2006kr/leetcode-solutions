@@ -72,6 +72,7 @@
 | [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/yash2006kr/leetcode-solutions/tree/master/0136-single-number) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yash2006kr/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yash2006kr/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -99,6 +100,7 @@
 |  |
 | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0744-find-smallest-letter-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/yash2006kr/leetcode-solutions/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## String
 |  |
