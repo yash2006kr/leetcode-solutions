@@ -82,6 +82,7 @@
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/yash2006kr/leetcode-solutions/tree/master/0136-single-number) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0835-image-overlap](https://github.com/yash2006kr/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yash2006kr/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1563-stone-game-v](https://github.com/yash2006kr/leetcode-solutions/tree/master/1563-stone-game-v) |
@@ -283,6 +284,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0835-image-overlap](https://github.com/yash2006kr/leetcode-solutions/tree/master/0835-image-overlap) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yash2006kr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Recursion
 |  |
