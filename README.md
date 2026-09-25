@@ -21,6 +21,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/yash2006kr/leetcode-solutions/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/0112-path-sum) |
+| [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3310-remove-methods-from-project](https://github.com/yash2006kr/leetcode-solutions/tree/master/3310-remove-methods-from-project) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/yash2006kr/leetcode-solutions/tree/master/3568-minimum-moves-to-clean-the-classroom) |
 ## Graph Theory
@@ -134,6 +135,7 @@
 | [0115-distinct-subsequences](https://github.com/yash2006kr/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/yash2006kr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
+| [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yash2006kr/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/yash2006kr/leetcode-solutions/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/yash2006kr/leetcode-solutions/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -148,6 +150,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
 |  |
@@ -233,6 +236,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yash2006kr/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yash2006kr/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
@@ -248,6 +252,7 @@
 ## Sorting
 |  |
 | ------- |
+| [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yash2006kr/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/yash2006kr/leetcode-solutions/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -290,6 +295,7 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/yash2006kr/leetcode-solutions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/yash2006kr/leetcode-solutions/tree/master/0145-binary-tree-postorder-traversal) |
+| [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 ## Counting
 |  |
 | ------- |
