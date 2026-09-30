@@ -179,6 +179,7 @@
 | ------- |
 | [0125-valid-palindrome](https://github.com/yash2006kr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yash2006kr/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/yash2006kr/leetcode-solutions/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
 ## Dynamic Programming
@@ -243,6 +244,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yash2006kr/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1386-cinema-seat-allocation](https://github.com/yash2006kr/leetcode-solutions/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/yash2006kr/leetcode-solutions/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
@@ -293,6 +295,7 @@
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/yash2006kr/leetcode-solutions/tree/master/0160-intersection-of-two-linked-lists) |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/yash2006kr/leetcode-solutions/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 ## Floyd's Cycle Finding Algorithm
 |  |
