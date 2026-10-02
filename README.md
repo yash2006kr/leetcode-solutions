@@ -135,6 +135,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/yash2006kr/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0125-valid-palindrome](https://github.com/yash2006kr/leetcode-solutions/tree/master/0125-valid-palindrome) |
 | [0940-distinct-subsequences-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0940-distinct-subsequences-ii) |
@@ -157,6 +158,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Greedy
@@ -186,6 +188,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [0115-distinct-subsequences](https://github.com/yash2006kr/leetcode-solutions/tree/master/0115-distinct-subsequences) |
 | [0118-pascals-triangle](https://github.com/yash2006kr/leetcode-solutions/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
@@ -352,6 +355,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/0022-generate-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/yash2006kr/leetcode-solutions/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/yash2006kr/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
