@@ -64,6 +64,7 @@
 |  |
 | ------- |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash2006kr/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0836-rectangle-overlap](https://github.com/yash2006kr/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
 | [1401-circle-and-rectangle-overlapping](https://github.com/yash2006kr/leetcode-solutions/tree/master/1401-circle-and-rectangle-overlapping) |
@@ -107,6 +108,7 @@
 | [0119-pascals-triangle-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/yash2006kr/leetcode-solutions/tree/master/0136-single-number) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/yash2006kr/leetcode-solutions/tree/master/0453-minimum-moves-to-equal-array-elements) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yash2006kr/leetcode-solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0835-image-overlap](https://github.com/yash2006kr/leetcode-solutions/tree/master/0835-image-overlap) |
 | [1140-stone-game-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1140-stone-game-ii) |
@@ -333,6 +335,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1096-brace-expansion-ii](https://github.com/yash2006kr/leetcode-solutions/tree/master/1096-brace-expansion-ii) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/yash2006kr/leetcode-solutions/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yash2006kr/leetcode-solutions/tree/master/2089-find-target-indices-after-sorting-array) |
